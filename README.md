@@ -1,0 +1,1 @@
+# 10-A-FIFO-page-replacement-algorithm
